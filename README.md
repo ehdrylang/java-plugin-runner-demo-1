@@ -8,7 +8,7 @@
 
 and the jar file will be generated in `target` folder, like `demo-0.0.1-SNAPSHOT.jar`.
 
-2. confif the `ext-plugin` in `config.yaml` of APISIX
+2. config the `ext-plugin` in `config.yaml` of APISIX
 
 ```yaml
 ext-plugin:
